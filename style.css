@@ -1,0 +1,142 @@
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.7);
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url("background.png") no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#mainContainer {
+    border: 2px solid rgba(255, 255, 255, .7);
+    background: transparent;
+    backdrop-filter: blur(30px);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 1);
+
+    width: 570px;
+    height: 330px;
+    padding: 30px 60px;
+    border-radius: 30px;
+}
+
+#question {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+#answerContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+#answerContainer textarea {
+    color: white;
+    background-color: transparent;
+    margin-bottom: 30px;
+    padding: 8px;
+    width: 45%;
+    height: 100px;
+    border: 1.5px solid white;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    resize: none;
+}
+
+#answerContainer textarea::placeholder {
+    color: rgba(255, 255, 255, .4);
+}
+
+#answerContainer textarea:focus {
+    outline: none;
+}
+
+#answerContainer #notesTA:focus {
+    transition-duration: 100ms;
+    transform: scale(1.03);
+}
+
+#actionButton {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+#actionButton #idSelectorInput{
+    width: 35px;
+    height: 20px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+#actionButton #displayAnswerCb {
+    display: none;
+}
+
+#actionButton #displayAnswer {
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+    padding: 15px;
+    cursor: pointer;
+    user-select: none;
+}
+
+#actionButton #displayAnswer:hover {
+    transition-duration: 100ms;
+    color: rgb(150, 150, 150);
+}
+
+#actionButton #displayAnswer:active {
+    transition-duration: 10ms;
+    color: rgb(200, 200, 200);
+}
+
+#actionButton #nextButton {
+    border: none;
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+    padding: 15px;
+    cursor: pointer;
+    user-select: none;
+    font-weight: 500;
+}
+
+#actionButton #nextButton:hover {
+    transition-duration: 100ms;
+    color: rgb(150, 150, 150);
+}
+
+#actionButton #nextButton:active {
+    transition-duration: 10ms;
+    color: rgb(200, 200, 200);
+}
+
+#randomOrder {
+    position: relative;
+    top: 10px;
+    user-select: none;
+}
+

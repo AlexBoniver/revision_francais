@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>49 questions français</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="mainContainer">
+        <h1 id="question">12. Qu'est ce q'une légende urbaine ? Donne un exemple pour illustrer ta réponse, en faisant ressortir les caractéristiques du genre</h1>
+        <div id="answerContainer">
+            <textarea id="notesTA" placeholder="écrivez votre réponse ici"></textarea>
+            <textarea id="answerTA" readonly></textarea>
+        </div>
+        <div id="actionButton">
+            <div id="idSelector">
+                <label for="idSelectorInput">Question n°</label>
+                <input id="idSelectorInput" type="number" min="1" max="48" value="1">
+            </div>
+            <input id="displayAnswerCb" type="checkbox">
+            <label for="displayAnswerCb"><div id="displayAnswer">Afficher la réponse</div></label>
+            
+            <button id="nextButton" onclick="IncrementQuestion()">Question Suivante</button>
+        </div>
+        <div id="randomOrder">
+            <label for="randomOrderCb">Ordre aléatoire</label>
+            <input id="randomOrderCb" type="checkbox">
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

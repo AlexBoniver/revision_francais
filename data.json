@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "question": "Définis paratexte, épitexte, péritexte, métatexte, intertexte, hypertexte, architexte et donne un exennple pour chacun, Explique ensuite en quoi ils esquissent chez le récepteur un horizon d'attente.",
+        "answer": ["Paratexte: désigne l’ensemble des éléments qui entourent un texte et qui contribuent à sa mise en contexte et à sa compréhension (Ex: couverture du livre)", "Epitexte: fait référence à l’ensemble des éléments qui se situent en dehors du texte lui-même mais qui sont liés à celui-ci (Ex: critique littéraire)", "Péritexte: désigne l’ensemble des textes qui complètent le texte principal (Ex: les notes)", "Métatexte: est un texte qui parle d’un autre texte, le commente, le critique ou le met en perspective (Ex: commentaire qui unit un texte à un autre texte)"]
+    },
+    {
+        "id": 2,
+        "question": "Définis le pacte autobiographique et le pacte fictionnel.",
+        "answer": ["Pacte autobiographique: un accord entre l’auteur et le lecteur, où l’auteur raconte sa ropre vie de manière sincère et le lecteur accepte de considérer le récit comme une représentation fidèle de la réalité.", "Pacte fictionnel: Concerne les oeuvres qui mélangent des éléments de fiction avec des éléments autobiographiques."]
+    },
+    {
+        "id": 3,
+        "question": "Quels sont les principaux sous-genres des récits de vie et leurs particularités ?",
+        "answer": ["Autobiographie: récit en « je » où le narrateur raconte sa vie d’une manière rétrospective.", "Biographie: récit en « il » où l’auteur/le narrateur raconte la vie d’une autre personne ou d’un personnage fictif.", "Journal intime: récit où l'auteur/narrateur raconte son quotidien au fil des jours sur le vif"]
+    },
+    {
+        "id": 4,
+        "question": "Quelle est la différence essentielle entre le merveilleux, le fantastique et la science-fiction ?",
+        "answer": ["Merveilleux: utilise des éléments magiques de manière nouvelle", "Fantastique: crée une incertitude entre le réel et l'irréel", "Science-fiction: se base sur la science et la technologie pour explorer des mondes futuristes"]
+    },
+    {
+        "id": 5,
+        "question": "Quels sont les sous-genres de la science-fiction et leurs spécificités ?",
+        "answer": ["Space opera: Aventures épiques dans un cadre intergalactique où ont lieu des batailles entre les extra-terrestres", "Récit post-apocalyptique: récit qui imagine la fin du monde", "Dystopie: récit qui met en scène une société futuriste et qui va susciter la rébellion", "Uchronie: Récit qui modifie un évènement du passé pour imaginer les conséquences de ce changement", "Hard sf: Récit où les technologies et les découvertes des formes sont cohérentes avec l’état de nos connaissances actuelles.", "Cyberpunk: Récit qui met en scène un futur proche avec des technologies très avancées et un univers violent"]
+    },
+    {
+        "id": 6,
+        "question": "Quels sont les sous-genres du récit policier et en quoi se distinguent-ils ?",
+        "answer": ["Récit à énigme: on suit l'enquêteur", "Roman noir: on suit le criminel", "Récit à suspense: on suit la victime pourchassée ou un individu tentant de prouver son innocense"]
+    },
+    {
+        "id": 7,
+        "question": "Quels sont les sous-genres de la fantasy et leurs spécificités ?",
+        "answer": ["Héroïc fantasy: récit où dans un monde merveilleux politiquement complexe vivent des individus de race différente (humains, trolls, elfes, nains qui luttent entre eux pour préserver leur territoire et s’unissent pour lutter contre le mal", "Light fantasy: récit qui parodie les caractéristiques de la fantasy reposant sur du comique de moeurs, de caractère, de situation, qui peut apporter une critique de la société", "Urban fantasy: récit qui se déroule dans une ville où les créatures magiques vivent cachées du regard des humains", "Fantasy animalière: récit qui met en scène des animaux anthropomorphisés qui représentent des modèles humains", "Dark fantasy: récit qui met en scène un univers sombre et inquiétant où le mal gouverne et où les personnages sont souvent épuisés et tristes"]
+    },
+    {
+        "id": 8,
+        "question": "Définis la robinsonnade.",
+        "answer": ["Récit qui met en scène des personnages qui doivent survivre dans des milieux hostiles et désert"]
+    },
+    {
+        "id": 9,
+        "question": "Définis le récit d'aventure.",
+        "answer": ["Récit avec des personnages courageux qui vivent des expériences palpitantes et dangereuses, qui mènent une quête."]
+    },
+    {
+        "id": 10,
+        "question": "Propose une définition complète et personnelle du space opera en 5 lignes.",
+        "answer": ["Ce sont des histoires épiques dans l'espace avec des voyages et des combats interstellaires, des héros charismatiques"]
+    },
+    {
+        "id": 11,
+        "question": "Propose une définition complète et personnelle du western en 5 lignes.",
+        "answer": ["Le western est un genre littéraire et cinématographique qui se déroule principalement dans les régions occidentales des États-Unis pendant la seconde moitié du XIXe siècle. Il met en scène des personnages tels que des cow-boys, des hors-la-loi, des shérifs et des pionniers, souvent confrontés à des conflits de frontière, des luttes pour la justice et des thèmes de la loi du plus fort. Les histoires de westerns se caractérisent par leurs décors de paysages sauvages, leurs duels, et leur exploration des valeurs de courage, d'honneur et de liberté individuelle dans un cadre souvent mythique et romantique de l'Ouest américain."]
+    },
+    {
+        "id": 12,
+        "question": "Qu'est-ce qu'une légende urbaine ? Donne un exemple pour illustrer ta réponse, en faisant ressortir les caractéristiques du genre.",
+        "answer": ["C'est un récit court qui est déformé par le bouche à oreille et existe sous différentes variantes.", "Exemple : Bloody Mary, une histoire effrayante qui existe sous différentes variantes"]
+    },
+    {
+        "id": 13,
+        "question": "Quelle est la structure classique d'un récit fantastique ?",
+        "answer": ["Introduction du cadre réaliste", "Avertissement", "Bascule", "Aventure", "Fin"]
+    },
+    {
+        "id": 14,
+        "question": "Qu'est-ce qu'un procédé de bascule dans la littérature fantastique ? Donne 3 exemples différents.",
+        "answer": ["C'est quand le surnaturel fait son apparition. ex:", "découverte d'un monstre", "découverte de phénomènes paranormaux", "découverte d'un autre monde"]
+    },
+    {
+        "id": 15,
+        "question": "Quels sont les codes du cinéma d'horreur ? Illustre chacun par un exemple.",
+        "answer": ["Gore: mort avec le corps défoncé", "Miroir: miroir avec une personne dans le reflet", "Maison hantée et spectre: Maison abandonnée avec un esprit qui tue des gens", "Porte: porte qui s'ouvre toute seul en grinçant", "Screamer: créature qui apparait d'un coup nous faisant sursauter"]
+    },
+    {
+        "id": 16,
+        "question": "Quelles sont les 7 catégories qui servent de matrice au cinéma d'horreur ?",
+        "answer": ["Le tueur fou", "Non-morts", "Monstres créer par l'homme", "Monstres extraterrestres", "La revanche de la nature", "Les pouvoirs de l'occulte", "Les métamorphoses"]
+    },
+    {
+        "id": 17,
+        "question": "Comment le genre fantastique a-t-il évolué, de ses premières traces historiques jusqu'à aujourd'hui ?",
+        "answer": []
+    },
+    {
+        "id": 18,
+        "question": "Un récit historique est-il toujours fidèle à la réalité ? Justifie.",
+        "answer": []
+    },
+    {
+        "id": 19,
+        "question": "Quels sont les éléments linguistiques qui composent une consigne ?",
+        "answer": ["Contexte", "Verbe d'action", "Procédure", "Connecteur", "Mots interrogatifs"]
+    },
+    {
+        "id": 20,
+        "question": "Quelle est la différence entre une question ouverte et une question fermée ? Donne un exemple pour chacune.",
+        "answer": ["Ouverte: réponse complexe (ex: Quel est ton nom ?)", "Fermée: réponse par oui ou non (ex: Aimes-tu le sport ?)"]
+    },
+    {
+        "id": 21,
+        "question": "Quelle est la différence entre un hyperonyme et un hyponyme ? Illustre ta réponse à l'aide d'un exemple.",
+        "answer": ["Hyperonyme: terme générique (ex: arbre)", "Hyponyme: terme spécifique (ex: palmier, chêne, ...)"]
+    },
+    {
+        "id": 22,
+        "question": "Dans un texte informatif, quelles sont les progressions de l'information possibles ? Cite-les, définis-les et donne pour chacune un exemple.",
+        "answer": ["Constante: 1 seul thème, les rhèmes concernent toujours le même thème", "Linéaire: le rhème d'un phrase devient le thème de la suivante", "Eclatée: hyperthème divisé en sous-thèmes développés en rhèmes"]
+    },
+    {
+        "id": 23,
+        "question": "Qu'est-ce qu'une rupture thématique dans un texte informatif ?",
+        "answer": ["C'est lorsqu'on change de progression"]
+    },
+    {
+        "id": 24,
+        "question": "Quelles sont les composantes du texte informatif ? En quoi influencent-elles la lecture du récepteur et ses stratégies de lecture ?",
+        "answer": ["Titre: plus gros que le reste du texte, donne le thème de l'article", "Chapeau: présente le contenu de l'article", "Paragraphe: développe une information précise", "Intertitre: titre secondaire annonçant un sous-thème", "Illustration: donne une information visuelle", "Encart: donne une info supplémentaire au lecteur"]
+    },
+    {
+        "id": 25,
+        "question": "Définis thème, thèse et argument. Illustre ta définition par un exemple à partir d'un fait d'actualité.",
+        "answer": ["Thème: sujet dont on parle (ex: le racisme)", "Thèse: notre avis par rapport au thème (ex: il faut combattre le racisme)", "Argument: Idée qui défend la thèse (ex: la couleur de peau n'influence pas le comportement ou la mentalité d'une personne)"]
+    },
+    {
+        "id": 26,
+        "question": "Cite et définis les différents types d'arguments. Pour chacun, donne un exemple qui n'est pas issu du cours.",
+        "answer": ["Causal: raisonnement posé sur le principe que tout fait à une cause et provoque des conséquences", "Comparaison: raisonnement basé sur la ressemblance établie entre 2 our plusieurs éléments", "Autorité: raisonnement qui fait appel à la théorie d'un expert, à des statistiques d'une personne dont la compétence est reconnue", "Exemple: raisonnement qui se base sur un exemple, une anecdote, un fait pour illustrer une opinion", "Valeurs: raisonnement qui se base sur une valeur partagée par de nombreuse personnes", "Ad populum: raisonnement qui se base sur le principe d'un groupe de personnes"]
+    },
+    {
+        "id": 27,
+        "question": "Qu'est-ce qu'une didascalie et quelles en sont les types ? Donne pour chaque cas un exemple.",
+        "answer": ["Infos que l'on note dans le synopsis du court-métrage", "Geste: jouer à un jeu vidéo", "attitude: pleurer", "position: derrière quelqu'un"]
+    },
+    {
+        "id": 28,
+        "question": "Qu'est-ce qu'un photoreportage et quelles sont ses fonctions ?",
+        "answer": ["C’est une forme de photojournalisme où l’image et le texte sont combinés pour raconter une histoire.", "Fonctions :", "Narrative: raconte l’histoire des personnages représentés sur la photo", "Informative: apporte des informations sur le conflit ou la situation des personnages", "Argumentative: défend une thèse, la photographie sert d’argument à celle-ci", "Injonctive: nous pousse à agir, nous faire réagir"]
+    },
+    {
+        "id": 29,
+        "question": "Quelles sont les fonctions possibles d'une publicité ?",
+        "answer": ["Narrative", "Injonctive", "Argumentative", "Informative"]
+    },
+    {
+        "id": 30,
+        "question": "Qu'est-ce qu'une publicité engagée ?",
+        "answer": ["Une pub qui défend une cause (thèse) et l'appuye à l'aide d'arguments"]
+    },
+    {
+        "id": 31,
+        "question": "Quelle est l'origine de la figure du zombie ?",
+        "answer": ["Le vaudou à Haiti"]
+    },
+    {
+        "id": 32,
+        "question": "Quelle est la différence entre le sens connoté et le sens dénoté d'une image ?",
+        "answer": ["Connoté: interprétation subjective", "Dénoté: description objective"]
+    },
+    {
+        "id": 33,
+        "question": "Quels sont les procédés techniques pour cadrer une image et leurs potentiels effets sur le récepteur ?",
+        "answer": ["Bordure: réduit notre imaginaire", "Portrait/paysage/oblique", "lignes horizontales: évoquent le calme, la profondeur et élargit l'image", "Lignes verticales: évoquent la rigidité, arrêtent le regard, l'empêchent d'aller plus en profondeur, allongesnt l'image"]
+    },
+    {
+        "id": 34,
+        "question": "Définis les différentes échelles de plan d'une image et leurs potentiels effets sur le récepteur.",
+        "answer": ["Plan d'ensemble: embrasse tout un paysage, suscite une ambiance", "Plan demi-ensemble: ne couvre qu'une partie du décor, concentre l'attention sur un élément", "Plan moyen: cadre le(s) personnage(s) de la tête au pied. Concentre l'attention sur les sujets et leurs actions", "Plan américain: présente les personnages jusqu'aux cuisses/genoux. Attire l'attention sur le sujet", "Plan rapproché: cadrage de la tête au buste. Entre dans l'intimité des personnages", "Gros plan: cadre le visage. Permet de lire les pensées du personage", "Insert: montre un seul objet. Attire l'attention sur un détail important"]
+    },
+    {
+        "id": 35,
+        "question": "Définis les différents angles de vue d'une image et leurs potentiels effets sur le récepteur.",
+        "answer": ["Frontal : confronte au personnage", "Plongée: vue d'en haut, écrase le sujet (le rend moins imposant)", "Contre-plongée: vue d'en bas, sublime le sujet (le rend plus imposant)"]
+    },
+    {
+        "id": 36,
+        "question": "Qu'est-ce que le découpage temporel dans une composition d'image ?",
+        "answer": ["L'image est découpée en 2 parties : ", "Gauche: présent/passé", "Droite: futur"]
+    },
+    {
+        "id": 37,
+        "question": "En quoi la règle des tiers est-elle importante si tu dois prendre une photo ?",
+        "answer": ["Le regard se pose naturellement sur les tiers. Il est donc intéressant de placer les éléments sur ces points de forces"]
+    },
+    {
+        "id": 38,
+        "question": "Dans une publicité, qu'est-ce qu'une chute et en quoi est-elle intéressante à exploiter ?",
+        "answer": ["Un élément équilibrant le scénario", "Cette chute doit surprendre et sensibiliser en même temps", "Elle peut être drôle ou choquante"]
+    },
+    {
+        "id": 39,
+        "question": "Définis auteur, narrateur, éditeur et Protagoniste.",
+        "answer": ["Auteur: personne qui écrit un livre, qui fait une œuvre d’art ", "Narrateur: personne/entité qui raconte une histoire", "Éditeur : personne qui assure la publication et la mise en vente des ouvrages d’un auteur, musicien, … ", "Protagoniste: personne qui joue le 1er rôle dans une affaire "]
+    },
+    {
+        "id": 40,
+        "question": "Qu'est-ce que le monomythe ?",
+        "answer": ["Le concept, présenté par Joseph Campbell, représente l’idée que les mythes racontent essentiellement la même histoire sur laquelle ils ne sont que des variations. "]
+    },
+    {
+        "id": 41,
+        "question": "Cite et définis les 12 étapes du monomythe.",
+        "answer": ["Début dans un monde ordinaire: La quête n'a pas encore commencé", "Appel à l'aventure: Un problème/défi se présente", "Refus: le héros est d’abord hésitant, il a peur de l’inconnu", "Rencontre avec le mentor: le héros rencontre un guide qui va l’aider", "Passage du seuil de l'aventure: le héros découvre un nouveau monde, il ne peut plus faire marche arrière, la quête a démarré", "Epreuves: le héro rencontre des alliés et des ennemis, les épreuves vont le changer", "Montée du danger: le héro approche l’endroit le plus dangereux où l’objet de sa quête est caché", "Epreuve suprême: le héro subit sa dernière épreuve, contre un ennemi redoutable, affronte le mentor", "Acquisition de l'objet de la quête: le héro obtient l'objet de sa quête", "Le chemin du retour: parfois il s'agit encore d'échapper à la vengeance de ceux à qui l'objet leur a été dérobé", "La renaissance: le héro revient transformé du monde extraordinaire où il s'était aventuré", "Le retour dans le monde ordinaire: Le héro revient dans le monde ordinaire et utilise l'objet de sa quête pour améliorer le monde"]
+    },
+    {
+        "id": 42,
+        "question": "Qu'est-ce que la diégèse ?",
+        "answer": ["L'univers dans lequel se déroule le récit"]
+    },
+    {
+        "id": 43,
+        "question": "Quels sont les trois niveaux narratifs et leurs spécificités ?",
+        "answer": ["Extradiégétique: lorsque le narrateur ne fait pas partie de l'histoire", "Homodiégétique: lorsque le narrateur fait partie de l’histoire", "Métadiégétique: lorsque la diégèse contient une diégèse; une histoire racontée à l'intérieur du récit"]
+    },
+    {
+        "id": 44,
+        "question": "Quelle est la différence entre un narrateur homodiégétique et un narrateur hétérodiégétique ?",
+        "answer": ["Homodiégétique: narrateur qui raconte sa propre histoire", "hétérodiégétique: narrateur qui raconte une histoire qu'il na pas vécu lui-même"]
+    },
+    {
+        "id": 45,
+        "question": "Définis la dissonance ludonarrative.",
+        "answer": ["Conflit entre le récit d'un jeu vidéo raconté à travers l'histoire et le récit raconté à travers le gameplay"]
+    },
+    {
+        "id": 46,
+        "question": "Résume en IO lignes les principales étapes de l'histoire de la langue française.",
+        "answer": []
+    },
+    {
+        "id": 47,
+        "question": "En quoi le français est-il une langue métissée ? Illustre ta réponse à l'aide d'exemples.",
+        "answer": ["Car la langue française a emprunté des mots à d'autres langues (ex: week-end, ...)"]
+    },
+    {
+        "id": 48,
+        "question": "Qu'est-ce qu'un doublet ? Donne un exemple pour illustrer ta réponse.",
+        "answer": ["C'est quand 2 mots viennent de la même racine mais ont évolués pour devenir des mots différents (ex: chevalier et cavalier)"]
+    }
+]
